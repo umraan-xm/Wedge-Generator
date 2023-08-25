@@ -6,3 +6,6 @@ In Houdini, right click on an empty shelf and click 'New Tool'. Now paste the co
 
 ## Screenshots
 ![image](https://github.com/umraan-xm/Wedge-Generator/assets/120903301/b021ca17-4cbc-4c9a-aca7-f0b39feeef52)
+
+![image](https://github.com/umraan-xm/Wedge-Generator/assets/120903301/d86129fb-d823-4be9-be0d-576a1d976aa0)
+
